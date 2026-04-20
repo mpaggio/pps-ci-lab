@@ -1,3 +1,5 @@
+package common;
+
 public class Paggetti {
     private String name;
     private String surname;
